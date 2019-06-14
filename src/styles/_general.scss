@@ -11,7 +11,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+// define sass mixin
+// Generates single property classes
+// -------------------------
 html,
 body,
 #app {
