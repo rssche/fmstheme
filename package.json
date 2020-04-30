@@ -50,7 +50,7 @@
     "jest": "23.6.0",
     "jest-pnp-resolver": "1.0.1",
     "jest-resolve": "23.6.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-mapael": "^2.2.0",
     "jquery-sparkline": "^2.4.0",
     "jquery-ui": "1.12.1",
