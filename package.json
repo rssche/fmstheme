@@ -60,7 +60,7 @@
     "messenger": "git+https://github.com/HubSpot/messenger.git#v1.4.2",
     "metrojs": "0.9.77",
     "mini-css-extract-plugin": "0.4.3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "napa": "^3.0.0",
     "node-sass": "^4.9.4",
     "nvd3": "1.8.6",
